@@ -1,5 +1,5 @@
 # HC-RAT
-Hacker Community Remote Control Trojan
+Hacker Community Remote Access Trojan
 # Requirements
 python 3.7>=
 
